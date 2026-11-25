@@ -1,0 +1,8 @@
+node_modules/
+__pycache__/
+.venv/
+dist/
+tests/reports/
+test-results/
+playwright-report/
+pretty.output
